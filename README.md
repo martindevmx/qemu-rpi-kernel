@@ -1,4 +1,6 @@
 # qemu-rpi-kernel
+IMPORTANT: for Debian users, please go to folder /tools/ and move the script /tools/qemu_choose_vm-debian.sh to /qemu-rpi-kernel-debian/ (it's the folder with all kernel versions, look like this: /qemu-rpi-kernel-debian/qemu_choose_vm-debian.sh) and run the shell with root permission. Remember: apply chmod +x to qemu_choose_vm-debian.sh! have fun!
+
 Qemu kernel for emulating Rpi on QEMU
 
 While I was searching the internet about emulating QEMU, most of the guides pointed to link https://xecdesign.com/downloads/linux-qemu/kernel-qemu which is dead as of now.
