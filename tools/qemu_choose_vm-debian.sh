@@ -19,7 +19,7 @@
 # Run this script, following the instructions and be happy
 
 apt-get update -y
-apt-get install git -y
+#apt-get install git -y
 apt-get install qemu-system -y
 
 git clone https://github.com/dhruvvyas90/qemu-rpi-kernel.git
