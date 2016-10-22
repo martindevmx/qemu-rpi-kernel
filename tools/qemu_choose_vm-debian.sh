@@ -22,9 +22,9 @@ apt-get update -y
 #apt-get install git -y
 apt-get install qemu-system -y
 
-git clone https://github.com/dhruvvyas90/qemu-rpi-kernel.git
-mv qemu-rpi-kernel/* .
-rm -r qemu-rpi-kernel
+#git clone https://github.com/dhruvvyas90/qemu-rpi-kernel.git
+#mv qemu-rpi-kernel/* .
+#rm -r qemu-rpi-kernel
 
 ## list of kernels and choose one
 echo "List of kernels availables:"
